@@ -10,7 +10,7 @@ Refer to the [video submission guide on the Full-Stack Blog](https://coding-boot
 
 ## Link To Walkthrough Video
 
-https://youtu.be/OqqzHbInMhY
+https://youtu.be/7kQO-lrRU0A
 
 ### User Story
 
